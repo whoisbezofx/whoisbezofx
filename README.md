@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @9bezzo
+🚀 **Application Developer** | **Open Source Developer**
 
+---
+
+## 📊 GitHub Stats
+
+| **Metric**       | **Count** |
+|------------------|----------|
+| 🌟 Stars Earned  | 1        |
+| 📝 Commits       | 587      |
+| 🔄 Pull Requests | 57       |
+| 🐛 Issues        | 8        |
+| 🤝 Contributed  | 14 repos |
 
 ## 🔥 **AKTIVITÄT & STREAKS**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=9bezzo&theme=dark&hide_border=true)
