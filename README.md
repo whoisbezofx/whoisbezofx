@@ -19,7 +19,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9bezzo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=9bezzo.phantom)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=9bezzo.9bezzo)
 
 ## 🌐 **SOZIALE**
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](LINK_HERE)
