@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @9bezzo
-## 🔥 **Streaks & Activity**
-- **Current Streak:** Apr 27 - Apr 29  
-- **Longest C++ Streak:** Aug 12, 2024 - Aug 24, 2024  
 
+
+## 🔥 **AKTIVITÄT & STREAKS**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=9bezzo&theme=dark&hide_border=true)
 
+## 📚 **SPRACHEN**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9bezzo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 **SOZIALE**
