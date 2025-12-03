@@ -2,7 +2,7 @@
 
 ---
 ## 🔥 **AKTIVITÄT & STREAKS**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=whoisbezofx&theme=dark&hiden_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=whoisbezofx&theme=github-dark-blue&hiden_border=true)
 
 ## 🌐 **SOZIALE**
 
