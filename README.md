@@ -6,4 +6,4 @@
 
 ## 🌐 **SOZIALE**
 
-[RendexFi Protocol](https://rendexfi.app)
+[RendexFi Protocol](https://rendexfi.app) | [Discord](https://discord.gg/Tzq63vSFW6)
